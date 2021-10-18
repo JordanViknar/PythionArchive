@@ -1,5 +1,5 @@
 # Pythion
-Tic-Tac-Toe but in Python. This is a really old French high-school projet from the beginning of 2019, and only here for archive purposes.
+Tic-Tac-Toe but in Python. This is a really old French high-school projet from around the end of 2019, and only here for archive purposes.
 
 Pythion = Python + "Morpion" *(Tic-Tac-Toe in French)*
 
